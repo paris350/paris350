@@ -1,51 +1,49 @@
 body
 {
-    background-image: url ("weights.jpg.img");
-    color: #000000;
-    font-family: "Rambla", sans-serif; 
-    font-size: 20px; 
-    background-color: #4f8bc9;
+   
+    color: #110934;
+   font-family: "Rambla", sans-serif; 
+   font-size: 20px; 
+    background-color: #347b98;
     align-content: center;
 }
 
-title
+ header
 {
-    color: #e02b2a;
+    
+    color: #f3f7d4;
+    font-size: 50px;
+    text-align: center;
+    margin: 50px; 
+   display: block;
+     
 }
 nav ul
 {
-    
-    list-style-type: none;
+    list-style: none;
     margin: 0;
     padding: 0;
-    align-content: center;
     overflow: hidden;
-    background-color: #e02b2a;
+    background-color: black;
+    
     
 }
 
 li
 {
     float: left;
+    
 }
- 
+
 li a
 {
-    display: inline-block;
+    
+    display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none
-    
+    text-decoration: none;
 }
-    
-    
-
-/*header nav ul li
-{
-    display: block;
-    float: left;
-}*/
 
 img
 {
@@ -57,33 +55,11 @@ img
     
 }
 
-
 .container
 {
-    color: #000000;
+    color: #f3f7d4;
     text-align: center;
     border-color: #f6f6f6;
-    font-size: 25px;
-    margin: 50px;
+    font-size: 25px
 }
 
- header
-{
-    text-align: center;
-    background-color: 000000;
-    font-size: 60px;
-    display: block;
-    width: 1000px;
-    margin: 50px 
-    
-}
-
-contact
-{
-    font-size: 50px
-    
-}
-
-  
-
-    
